@@ -48,9 +48,9 @@ def main():
     sector_file_path = r"D:\stock_analysis\sector_data.csv"
     
     mysql_config = {
-        'host': 'localhost',
-        'user': 'root',
-        'password': 'Deeksha!18',
+        'host': 'user_hostname',
+        'user': 'username',
+        'password': 'user_password',
         'database': 'stock_analysis'
     }
     
