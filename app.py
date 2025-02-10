@@ -10,10 +10,10 @@ class StockAnalysisDashboard:
         """Initialize the dashboard with database connection and initial data."""
         # Database configuration
         self.mysql_config = {
-            'host': 'localhost',
-            'user': 'root',
-            'password': 'Deeksha!18',
-            'database': 'stock_analysis'
+             'host': 'user_hostname',
+             'user': 'username',
+             'password': 'user_password',
+             'database': 'stock_analysis'
         }
         
         # Set page configuration
