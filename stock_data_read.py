@@ -105,9 +105,9 @@ def main():
     csv_folder_path = r"D:\stock_analysis\csv_folder_path"
     
     mysql_config = {
-        'host': 'localhost',
-        'user': 'root',
-        'password': 'Deeksha!18',
+         'host': 'user_hostname',
+        'user': 'username',
+        'password': 'user_password',
         'database': 'stock_analysis'
     }
     
