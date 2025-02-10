@@ -21,3 +21,4 @@ This project combines the power of Python, Streamlit, and Power BI to create an 
 Get started with better stock analysis today! 🌟
 
 [Detailed documentation and setup instructions in README.md]
+Made with ❤️ by Deeksha
